@@ -1,4 +1,4 @@
-module github.com/victbakk/myquote1
+module github.com/victbakk/myquote
 
 go 1.17
 
